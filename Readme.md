@@ -1,5 +1,5 @@
 ### step 1
-download "cfg.zip" from [releases page](https://github.com/batscs/csgo_cfg/releases/)
+download "cfg.zip" from [releases page](https://github.com/batscs/csgo_cfg/releases/latest)
 
 ### step 2
 unzip to `steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg`
